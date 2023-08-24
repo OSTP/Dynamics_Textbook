@@ -6,5 +6,7 @@ This textbook is a work in progress and will follow a similar format as the firs
 * Example problems using Jupyter notebooks for plotting graphs
 * Videos demonstrating common mathematical concepts or tricks when solving problems
 
+All videos are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Videos can be used for non-commercial purposes and must remain unaltered.  Video credits to Lance Schonberg and Sarah Sadavoy.
+
 ## Updates
 August 24, 2023: Jupyter Notebooks and videos are uploaded
