@@ -11,4 +11,4 @@ All Jupyter notebooks are fair use (CC0).
 All videos are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC-BY-NC-ND). Videos can be used for non-commercial purposes and must remain unaltered.  Video credits to Lance Schonberg and Sarah Sadavoy.
 
 ## Updates
-August 24, 2023: Jupyter Notebooks and videos are uploaded
+August 24, 2023: Jupyter Notebooks uploaded
