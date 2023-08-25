@@ -15,7 +15,7 @@ Videos can be used for non-commercial purposes and must remain unaltered.  Video
 
 [Vector Cross Product](https://queensu.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=ae89ffdc-939f-4aec-a11e-b06900e40104): This video shows how to solve a basic vector cross product.
 
-[Curl](https://queensu.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=653ef60b-f8cb-4b42-9d8f-b06900e3bae51): This video shows how to solve the curl of a vector.
+[Curl](https://queensu.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=653ef60b-f8cb-4b42-9d8f-b06900e3bae5): This video shows how to solve the curl of a vector.
 
 [Gradient](https://queensu.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=e83a999e-4839-4734-b856-b06900e3badd): This video shows how to find the gradient of a function.
 
