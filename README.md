@@ -11,4 +11,6 @@ All Jupyter notebooks are fair use (CC0).
 All videos are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC-BY-NC-ND). Videos can be used for non-commercial purposes and must remain unaltered.  Video credits to Lance Schonberg and Sarah Sadavoy.
 
 ## Updates
+August 25, 2023: [Video file created](https://github.com/OSTP/Dynamics_Textbook/blob/main/video_links.md) and links to mathematical concept videos added
+
 August 24, 2023: Jupyter Notebooks uploaded
