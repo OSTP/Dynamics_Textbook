@@ -3,7 +3,7 @@ Active learning style textbook aimed at second-year dynamics (classical mechanic
 
 ## Basic Information
 This textbook is a work in progress and will follow a similar format as the first-year active learning textbook, [Introductory Physics: Building Models to Describe Our World](https://github.com/OSTP/PhysicsArtofModelling).  **All latex files will be uploaded to this repository in the near future**.  At present, this repository contains:
-* [PDF copy of the in-progress textbook]{https://github.com/OSTP/Dynamics_Textbook/blob/main/tex/phys206_f23_textbook.pdf}
+* [PDF copy of the in-progress textbook](https://github.com/OSTP/Dynamics_Textbook/blob/main/tex/phys206_f23_textbook.pdf)
 * Example problems using Jupyter notebooks for plotting graphs
 * Videos demonstrating common mathematical concepts or tricks when solving problems
 
